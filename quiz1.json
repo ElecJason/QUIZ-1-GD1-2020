@@ -1,70 +1,70 @@
 {
-    "quizID": "Bla Bla Questions",
+    "quizID": "basketbalQuiz",
     "quizMetaData":
     {
-        "title": "Bla Bla Knowledge",
-        "imageURI": "https://sd.keepcalms.com/i-w600/keep-calm-and-dont-ask-stupid-questions.jpg"
+        "title": "BasketbalQuiz",
+        "imageURI": "http://adwallpapers.xyz/uploads/posts/99378-michael-jordan__sport.jpg"
 
     },
-    "quizContent":		
+    "quizContent":
 		[
 			{
-				"question": "Wie ontwierp de Eiffeltoren?",
+				"question": "Wie was de beste basketballer ooit?",
 				"answers": [{
-						"answer": "Eiffel",
+						"answer": "Jordan",
 						"feedback": true
 					},
 					{
-						"answer": "Berlage",
+						"answer": "Kobe",
 						"feedback": false
 					},
 					{
-						"answer": "Edison",
+						"answer": "Lebron James",
 						"feedback": false
 					},
 					{
-						"answer": "James Watt",
+						"answer": "O'Neill",
 						"feedback": false
 					}
 				]
 			},
 			{
-				"question": "In welke kleuren speelt blauw-wit?",
+				"question": "Bij welk team speelde de beste basketballer ooit?",
 				"answers": [{
-						"answer": "blauw en wit",
+						"answer": "Chicago Bulls",
 						"feedback": true
 					},
 					{
-						"answer": "groen en geel",
+						"answer": "New York Knicks",
 						"feedback": false
 					},
 					{
-						"answer": "rood en wit",
+						"answer": "Los Angeles Lakers",
 						"feedback": false
 					},
 					{
-						"answer": "rood en blauw",
+						"answer": "Golden State Warriors",
 						"feedback": false
 					}
 				]
 			},
 			{
-				"question": "Wat is de voornaam van Eddy Merckx?",
+				"question": "Hoe vaak op rij is hij kampioen geworden?",
 				"answers": [{
-						"answer": "Jelle",
+						"answer": "2",
 						"feedback": false
 					},
 					{
-						"answer": "Ed",
+						"answer": "3",
 						"feedback": false
 					},
 					{
-						"answer": "Eddy",
+						"answer": "4",
+						"feedback": false
+					},
+					{
+						"answer": "5",
 						"feedback": true
-					},
-					{
-						"answer": "Gerrit",
-						"feedback": false
 					}
 				]
 			}

@@ -7,7 +7,7 @@ function makeAjaxCall(url, methodType){
          xmlhttp.onreadystatechange = function(){
            if (xmlhttp.readyState === 4){
               if (xmlhttp.status === 200){
-                // console.log("xmlhttp done successfully"):; // debug
+                 console.log("xmlhttp done successfully"); // debug
                  let serverResponse = xmlhttp.responseText; //server antwoord met string
                  //console.log(serverResponse); // debug
                  resolve(serverResponse); // wordt via return promiseObj teruggegeven

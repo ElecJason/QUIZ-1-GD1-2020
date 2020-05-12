@@ -1,54 +1,54 @@
 {
-    "quizID": "Corona",
+    "quizID": "basketballQuiz2",
     "quizMetaData":
     {
-        "title": "Corona Virus Knowledge",
-        "imageURI": "https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+        "title": "BasketballQuiz2",
+        "imageURI": "http://adwallpapers.xyz/uploads/posts/99378-michael-jordan__sport.jpg"
 
     },
     "quizContent":
-    [ 
-        {   "question": "How long does the covid-19 survive outside the body??",
+    [
+        {   "question": "Who died recently in a helicopter crash?",
             "answers": [{
-                    "answer": "A week in the air and on surfaces",
+                    "answer": "Jordan",
                     "feedback": false
                 },
                 {
-                    "answer": "Several hours to days",
+                    "answer": "Kobe",
                     "feedback": true
                 },
                 {
-                    "answer": "Up to two and a half weeks",
+                    "answer": "Curry",
                     "feedback": false
                 }
             ]
         },
-        {   "question": "What’s more important for preventing infection?",
+        {   "question": "What does NBA stand for??",
             "answers": [{
-                    "answer": "Frequent hand-washing",
+                    "answer": "National Basketball Assosiation",
                     "feedback": true
                 },
                 {
-                    "answer": "Wearing a face mask",
+                    "answer": "North Basketball Assosiation",
                     "feedback": false
                 }
             ]
         },
-        {   "question": "Who’s at highest risk of developing severe Covid-19 disease?",
+        {   "question": "What country in Europe won most matches",
             "answers": [{
-                    "answer": "Children",
+                    "answer": "France",
                     "feedback": false
                 },
                 {
-                    "answer": "People over 60 years of age",
+                    "answer": "Italy",
                     "feedback": true
                 },
                 {
-                    "answer": "Pregnant women",
+                    "answer": "Greece",
                     "feedback": false
                 },
                 {
-                    "answer": "Those with existing medical conditions",
+                    "answer": "The Netherlands",
                     "feedback": false
                 }
             ]
