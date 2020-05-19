@@ -3,7 +3,7 @@
 ## Gamedevelopment 1e jaar <img src="https://www.ma-web.nl/static/vector/Logo_blok.svg"  width=50>
 Link naar de online versie: [http://29623.hosts2.ma-cloud.nl/quiz/QUIZ-1-GD1-2020/)
 
-Demo video:
+Quiz Screenshot:
 ![alt text](http://29623.hosts2.ma-cloud.nl/quiz/QUIZ-1-GD1-2020/Knipsel.PNG)
 
 
