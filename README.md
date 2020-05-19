@@ -9,4 +9,4 @@ Demo video:
 
 De les presentatie: [https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing](https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing)
 
-## Lesdoelen
+## Hierbij mijn quiz
